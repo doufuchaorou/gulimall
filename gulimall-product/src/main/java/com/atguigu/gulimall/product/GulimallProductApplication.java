@@ -17,7 +17,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  *          2)告诉mybatis-plus SQL映射文件位置
  */
 @SpringBootApplication
-@MapperScan("com.atguigu.gulimall.product.dao")
+//@MapperScan("com.atguigu.gulimall.product.dao")
 public class GulimallProductApplication {
 
     public static void main(String[] args) {
